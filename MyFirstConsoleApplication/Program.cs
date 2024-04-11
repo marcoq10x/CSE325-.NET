@@ -27,7 +27,7 @@ namespace MyFirstConsoleApplication
             int daysUntilChristmas = (nextChristmas - today).Days;
             Console.WriteLine($"Days until Christmas: {daysUntilChristmas}");
 
-            //6.C# Programming Yellow Book example 2.1 Yellowbook
+            //6.C# Programming Yellow Book example 2.1
             double width, height, woodLength, glassArea;
             string widthString, heightString;
 
